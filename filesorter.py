@@ -1,7 +1,6 @@
 # a filesorter to sort all incoming files to ~/Downloads
 import shutil
 import os
-from pathlib import Path
 
 os.chdir("/home/eike/Downloads")
 for file in os.listdir():
