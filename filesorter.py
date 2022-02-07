@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-eike ist dumm
+# Hier stand etwas dummes
 # a filesorter to sort all incoming files to ~/Downloads
 import shutil
 import os
