@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # a filesorter to sort all incoming files to ~/Downloads
 import shutil
 import os
